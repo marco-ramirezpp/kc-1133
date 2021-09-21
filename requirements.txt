@@ -2,4 +2,4 @@ sklearn
 streamlit
 pycaret
 pandas
-
+numpy==1.20
